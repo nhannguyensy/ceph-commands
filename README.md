@@ -195,6 +195,8 @@ Hints and tips for Ceph
 `radosgw-admin --id radosgw.gateway -k /etc/ceph/keyring.rados.gateway bucket stats 2>&1` - list of buckets and their properties
 
 ## Playbooks
+#mds
+ceph mds metadata
 
 [Some playbooks in a separate file](playbooks.md)
 
